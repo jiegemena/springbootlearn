@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstApplication",
+            "request": "launch",
+            "mainClass": "com.learn.first.FirstApplication"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MathApp",
+            "request": "launch",
+            "mainClass": "MathApp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
