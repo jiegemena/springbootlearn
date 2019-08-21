@@ -33,7 +33,7 @@ public class HomeController{
 4. 运行 Application.java java文件
 5. 打开浏览器，http：//127.0.0.1:8080,输出 First Spring boot app
 
-## SpringBoot web开发之登录注册
+## 2、SpringBoot web开发之登录注册
 
 1. 新建 LoginController.java 文件
 2. 使用 session 控制登录
@@ -198,7 +198,7 @@ pom.xml
 4. 打开浏览器，http：//127.0.0.1:8080 测试
 5. demo 路径
 
-## 使用 mysql
+## 3、使用 mysql
 
 1. 构造 数据库实体类型
 - 添加maven依赖
@@ -212,10 +212,7 @@ pom.xml
 	<artifactId>mysql-connector-java</artifactId>
 </dependency>
 ```
-- 新建 entity/BaseEntity.java   
-
-(1) 每个数据表应该建立一个 ID 作为主键，独立一个 BaseEntity 出来，不创建表
-(2) 创建 用户表,新建 entity/User.java （注意，属性小写开头）
+(1) 创建 用户表,新建 entity/User.java （注意，属性小写开头）
 ```
 package com.learn.first.entitys;
 
