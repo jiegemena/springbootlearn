@@ -278,3 +278,5 @@ public String in(@RequestParam String lname,@RequestParam String pwd){
 	return "redirect:/login/";
 }
 ```
+3. 启动 main 函数，浏览器输入 http://127.0.0.1:8080/login2,输入用户名 admin，密码 admin 登录，观察数据库test中变化
+4. [demo 地址](https://github.com/jiegemena/springbootlearn/tree/master/springbootlearn)
