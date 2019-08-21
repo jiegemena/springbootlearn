@@ -1,15 +1,15 @@
 {
     "java.configuration.updateBuildConfiguration": "automatic",
     "editor.minimap.enabled": false,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "workbench.iconTheme": "vscode-great-icons",
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "editor.renderIndentGuides": false,
     "editor.highlightActiveIndentGuide": false,
     "java.home": "/usr/local/java/jdk1.8.0_211",
-    "editor.fontSize": 15,
-    "editor.lineHeight": 30,
+    "editor.fontSize": 13,
+    "editor.lineHeight": 20,
     "maven.executable.path": "/usr/local/java/apache-maven-3.6.1/bin/mvn",   
     "java.configuration.maven.userSettings": "/usr/local/java/apache-maven-3.6.1/conf/settings.xml",
     "maven.terminal.customEnv": [
